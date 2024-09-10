@@ -11,7 +11,7 @@
 	<groupId>com.tavodin</groupId>
 	<artifactId>dslist</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>dslist</name>
+	<title>dslist</title>
 	<description>Demo project for Spring Boot</description>
 	<url/>
 	<licenses>
